@@ -1,0 +1,24 @@
+{
+  "name": "nexmo-ivr-menu",
+  "version": "1.0.0",
+  "description": "Interactive Voice Response using Nexmo Voice API and the Numbers API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexLakatos/nexmo-ivr-menu.git"
+  },
+  "author": "Alex Lakatos <alex.lakatos.qa@gmail.com>",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/AlexLakatos/nexmo-ivr-menu/issues"
+  },
+  "homepage": "https://github.com/AlexLakatos/nexmo-ivr-menu#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
